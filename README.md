@@ -1,6 +1,5 @@
 Hi, I’m Ashish Dhyani
-I’m interested in Data Science
-I’m currently learning Data Wrangling
-I’m looking to collaborate on projects related to Data Analysis
+I’m interested in Frontend Development
+I’m currently pursuing opportunities as Reactjs developer
 Contact me through mail ashishdhyani100@gmail.com  
 
